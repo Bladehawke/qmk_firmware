@@ -1,0 +1,4 @@
+USER_NAME = drop_led
+DEBOUNCE_TYPE = sym_defer_pk
+VIA_ENABLE = yes
+SIGNALRGB_SUPPORT_ENABLE = yes
